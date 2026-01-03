@@ -1,4 +1,3 @@
-```md
 # 🔐 Passwords — Password Manager App
 
 A secure, offline-first password manager built with **Flutter**, designed to keep your credentials safe using **biometric authentication** and **local-only storage**. No cloud, no tracking, no internet dependency.
@@ -311,4 +310,3 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## ⭐ Support
 
 If you find this project helpful, please consider giving it a ⭐️ on GitHub!
-```
