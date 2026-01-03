@@ -283,12 +283,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - GetX for state management
@@ -303,7 +297,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 **Abdul Sami**
 
 - GitHub: [@5-abdulsami](https://github.com/5-abdulsami)
+- Website: [abdulsami.live](https://abdulsami.live/)
 - Email: [5abdulsami2004@gmail.com](mailto:5abdulsami2004@gmail.com)
+- LinkedIn: [Abdul Sami](https://www.linkedin.com/in/5abdul-sami/)
 
 ---
 
